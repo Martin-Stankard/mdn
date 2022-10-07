@@ -1,0 +1,23 @@
+{
+  "name": "mdn",
+  "version": "1.0.0",
+  "description": "Dice notation analysis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Stankard/mdn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Stankard/mdn/issues"
+  },
+  "homepage": "https://github.com/Martin-Stankard/mdn#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
